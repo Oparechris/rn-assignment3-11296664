@@ -30,3 +30,10 @@ Use FlatList or SectionList to render a list of tasks, including task titles, de
 # Image
 The Image component is used to display images on the screen. It supports various image formats and can be used to display icons, avatars, and other images.
 Use Image to display icons for tasks, such as a checkbox for completed tasks or a clock for due dates.
+
+![Screenshot 2024-06-01 124228](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/971b4c98-e6fa-4a81-b0be-5f4adb72644b)
+![Screenshot 2024-06-01 124036](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/5ccd2e2c-c253-4569-89b7-096205e7c2ae)
+![Screenshot 2024-06-01 125437](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/9da5ca5d-6bfb-4cd5-bbdf-a62c826db619)
+![Screenshot 2024-06-01 125415](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/673cc8b3-2855-49f7-a589-038836036ec7)
+![Screenshot 2024-06-01 125340](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/30130214-acf6-48c1-8966-c613710d3aba)
+![Screenshot 2024-06-01 124253](https://github.com/Oparechris/rn-assignment3-11296664/assets/152171543/31f1ab42-f617-4411-bcad-a38bf6430a97)
