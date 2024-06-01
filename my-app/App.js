@@ -45,7 +45,7 @@ export default function App() {
           <Image
             style={styles.categoryImage}
             source={require('./assets/Swimming.jpeg')} />
-          <Text style={styles.categoryTitle}>Dance</Text>
+          <Text style={styles.categoryTitle}>Swimming</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
@@ -59,7 +59,7 @@ export default function App() {
           <Image
             style={styles.categoryImage}
             source={require('./assets/Eating.jpeg')} />
-          <Text style={styles.categoryTitle}>Pray</Text>
+          <Text style={styles.categoryTitle}>Eating</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
@@ -73,7 +73,7 @@ export default function App() {
           <Image
             style={styles.categoryImage}
             source={require('./assets/Gaming.jpeg')} />
-          <Text style={styles.categoryTitle}>Sleep</Text>
+          <Text style={styles.categoryTitle}>Gaming</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
       </View>
