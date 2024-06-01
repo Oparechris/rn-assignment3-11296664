@@ -11,7 +11,7 @@ export default function App() {
         </View>
         <TouchableOpacity style={styles.filterButton}>
           <Image
-            source={require('./assets/Profile Image.png')}
+            source={require('./assets/Profile.jpeg')}
             style={styles.profileIcon}
           />
         </TouchableOpacity>
@@ -20,7 +20,7 @@ export default function App() {
       <View style={styles.searchContainer}>
         <TextInput style={styles.searchInput} placeholder="Search" />
         <TouchableOpacity style={styles.filterButton}> 
-          <Image source={require('./assets/Filter.png')} style={styles.filterIcon} /> 
+          <Image source={require('./assets/Filter.jpeg')} style={styles.filterIcon} /> 
           
         </TouchableOpacity>
       </View>
@@ -30,49 +30,49 @@ export default function App() {
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/coding.png')} />
+            source={require('./assets/Coding.jpeg')} />
           <Text style={styles.categoryTitle}>Code</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/cooking.png')} />
+            source={require('./assets/Cooking.jpeg')} />
           <Text style={styles.categoryTitle}>Cook</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/dancing.png')} />
+            source={require('./assets/Swimming.jpeg')} />
           <Text style={styles.categoryTitle}>Dance</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/exercise.png')} />
+            source={require('./assets/Exercise.jpeg')} />
           <Text style={styles.categoryTitle}>Exercise</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/praying.png')} />
+            source={require('./assets/Eating.jpeg')} />
           <Text style={styles.categoryTitle}>Pray</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/running.png')} />
+            source={require('./assets/Running.jpeg')} />
           <Text style={styles.categoryTitle}>Run</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
         <TouchableOpacity style={styles.categoryCard}>
           <Image
             style={styles.categoryImage}
-            source={require('./assets/sleeping.png')} />
+            source={require('./assets/Gaming.jpeg')} />
           <Text style={styles.categoryTitle}>Sleep</Text>
           <Text style={styles.categoryTasks}>12 Tasks</Text>
         </TouchableOpacity>
